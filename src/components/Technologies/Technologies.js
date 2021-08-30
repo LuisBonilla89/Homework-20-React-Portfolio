@@ -20,35 +20,27 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      <br></br>
-      Front-end Development: React, Semantic-UI, HTML, CSS, Bootstrap, JQuery,
-      Javascript <br></br>
-      <br></br>Back-end Development: ExpressJS, NodeJS, MongoDB, MySQL,GraphQL,
-      Apollo Serve, REST API <br></br>
-      <br></br>Computer Software: Visual Studio Code, Slack, Microsoft Office,
-      Git, Figma. <br></br>
-      <br></br>Front End Architecture: OOP(Object Oriented Programming), Model
-      View Controller (MVC) <br></br>
-      <br></br>Spoken Languages: Native Spanish Speaker, business level English
+      I have worked with a variety of technologies in the web development field.
+      Starting from front end technologies to designing Tools
     </SectionText>
     <List>
       <ListItem>
         <DiReact size="3rem" />
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Front-End Development</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React.js, Semantic-UI, HTML, CSS, Bootstrap, JQuery, Javascript
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiFirebase size="3rem" />
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Back-End Development</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js, MongoDB, MySQL, Apollo Server, GraphQL
+            ExpressJS, NodeJS, MongoDB, MySQL,GraphQL, Apollo Serve, REST API
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -58,7 +50,8 @@ const Technologies = () => (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            tools like Figma, OOP(Object Oriented Programming), Model View
+            Controller (MVC)
           </ListParagraph>
         </ListContainer>
       </ListItem>

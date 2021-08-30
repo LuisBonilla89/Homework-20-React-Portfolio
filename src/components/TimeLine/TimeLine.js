@@ -67,15 +67,14 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hello there! My name is Luis Bonilla. I am a junior fullstack web
-        developer ready to expand and develop a sucessful career in the tech
-        world. Graduated from Monash Coding Bootcam in Melbourne Australia in
-        August 2021 and acquired crucial knowledge in the latest industry
-        technologies such as MERN stack (MongoDB, Express, React, NodeJS) as
-        well as knowledge in GraphQL, Javascript, CSS, HTML, JQuery and
-        Bootstrap. Acquiring this new skillset complements my long standing
-        interest in the power of programing. Please allow me to introduce some
-        of my work. I hope you enjoy the visit.
+        I am a passionate web developer always looking forward to expand and
+        share knowledge and new experiences in the tech world. Graduated from
+        Monash Coding Bootcam in Melbourne Australia in August 2021, I was able
+        to gain extremely valuable knowledge in the latest development
+        technologies.<br></br> <br></br>
+        Acquiring this new skillset complements my long standing interest in the
+        power of programing. Please allow me to introduce some of my work. I
+        hope you enjoy the visit.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
