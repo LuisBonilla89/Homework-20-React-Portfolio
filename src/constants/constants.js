@@ -52,9 +52,16 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { month: "Jan-Feb", text: "Started my journey" },
+  { month: "Mar-Apr", text: "Learned HTML and CSS fundamentals" },
+  { month: "May-June", text: "Learned Javascript basic components " },
+  {
+    month: "July-Aug",
+    text: "Learned backend tecnhologies such as MySQL, MongoDB",
+  },
+  {
+    month: "Aug-Sep",
+    text:
+      "Learned React framework and developed Fullstack MERN app with GraphQL",
+  },
 ];
