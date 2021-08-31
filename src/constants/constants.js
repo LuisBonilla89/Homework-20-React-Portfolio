@@ -43,7 +43,7 @@ export const projects = [
     title: "MyPlayDate-App",
     description:
       "This application was developed using the MERN fullstack technologies and GraphQL.",
-    image: "/images/playdate.png",
+    image: "/images/play.png",
     tags: ["Mongo", "Express", "React", "Node.js", "GraphQL", "Semantic-UI"],
     source: "https://github.com/LuisBonilla89/Playdate-app",
     visit: "https://merngmyplaydate.herokuapp.com/",
