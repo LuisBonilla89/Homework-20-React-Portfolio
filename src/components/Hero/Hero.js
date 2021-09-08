@@ -33,7 +33,7 @@ const Hero = () => (
       <Button
         onClick={() =>
           (window.location =
-            "https://drive.google.com/file/d/1FyvXILnk3_RJ7sAOqIIgRjsenrnBzz8a/view?usp=sharing")
+            "https://drive.google.com/file/d/1BbJEK8zfTXO3_n-AlTgTaH612YwIMz6N/view?usp=sharing")
         }
       >
         Learn More
